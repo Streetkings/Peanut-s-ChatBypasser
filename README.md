@@ -1,1 +1,1 @@
-print("assssssssss")
+print("ass")
